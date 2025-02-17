@@ -1,16 +1,36 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**sumon1167/sumon1167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Salauddin Sumon, a passionate developer and data analyst specializing in web analysis. 🚀
 
-Here are some ideas to get you started:
+🔍 **What I Do**:
+- Web scraping
+- Website performance analysis
+- SEO optimization
+- Content extraction & accessibility evaluation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tools & Technologies**:
+- Node.js, JavaScript, Python
+- Puppeteer, BeautifulSoup, Scrapy
+- Lighthouse, Axe-core, SEO tools
+
+🌐 **Connect with Me**:
+- [LinkedIn](https://www.linkedin.com/in/yourname)
+- [Twitter](https://twitter.com/yourusername)
+
+---
+
+### 📈 Latest Project: **Web Analysis Tool**
+
+I recently built a tool for analyzing website performance, SEO, and accessibility. It's a great way to gather insights and improve your website’s overall user experience.
+
+Check out the repo here: [Web Analysis Tool](https://github.com/yourusername/web-analysis)
+
+---
+
+✨ **Fun Fact**:  
+I love automating repetitive tasks and turning raw web data into meaningful insights. The web is full of hidden gems!
+
+---
+
+If you have any questions or want to collaborate, feel free to reach out. Happy coding! 👨‍💻
+
