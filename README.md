@@ -3,29 +3,21 @@
 Hi there! I'm Salauddin Sumon, a passionate developer and data analyst specializing in web analysis. 🚀
 
 🔍 **What I Do**:
-- Web scraping
-- Website performance analysis
-- SEO optimization
-- Content extraction & accessibility evaluation
+- FB Conversion API with GTM
+- FB Conversion API & GA4 Server-Side Tracking
+- Server Side tracking (For iOS 14.5 issue)
+- Google Analytics 4 (GA4)
+- Enhanced Ecommerce Tracking
+- Google Ads with (Conversion Tracking)
 
 🛠️ **Tools & Technologies**:
-- Node.js, JavaScript, Python
+- Node.js, JavaScript.
 - Puppeteer, BeautifulSoup, Scrapy
 - Lighthouse, Axe-core, SEO tools
 
 🌐 **Connect with Me**:
-- [LinkedIn](https://www.linkedin.com/in/yourname)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/salauddin-sumon-699a65222/)
 
----
-
-### 📈 Latest Project: **Web Analysis Tool**
-
-I recently built a tool for analyzing website performance, SEO, and accessibility. It's a great way to gather insights and improve your website’s overall user experience.
-
-Check out the repo here: [Web Analysis Tool](https://github.com/yourusername/web-analysis)
-
----
 
 ✨ **Fun Fact**:  
 I love automating repetitive tasks and turning raw web data into meaningful insights. The web is full of hidden gems!
